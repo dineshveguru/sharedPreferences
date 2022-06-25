@@ -75,6 +75,7 @@ class MainActivity : AppCompatActivity() {
             outputid.text = out_id.toString()
             outputname.text = out_name.toString()
         }
+//        dinesh
 
         clear.setOnClickListener {
             editor.clear()
